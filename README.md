@@ -1,1 +1,1 @@
-# Samar-singh
+smart-home-automation
